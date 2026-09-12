@@ -176,6 +176,7 @@ Shows monthly ROAS trends and country × platform efficiency, with interactive p
 Highlights high-spend / low-ROAS exposure, the overall ROAS benchmark, priority optimization segments, and high-efficiency scaling opportunities.
 
 Repository Structure
+```
 marketing-campaign-performance-analysis/
 │
 ├── README.md
@@ -203,6 +204,7 @@ marketing-campaign-performance-analysis/
     ├── 02_Campaign_Segment_Performance.png
     ├── 03_Trends_Geography.png
     └── 04_Optimization_Opportunities.png
+```
 Limitations
 
 The analysis describes observed performance patterns and does not establish causal relationships.
